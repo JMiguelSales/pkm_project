@@ -1,0 +1,62 @@
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+C:\Users\labsc3\Desktop\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\abela\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projeto sexta\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+D:\c#\versao_15_09\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\beta_projeto\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.AssemblyReference.cache
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.SuggestedBindingRedirects.cache
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+E:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe.config
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.exe
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\bin\Debug\Projeto_2tri_pkm.pdb
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csprojResolveAssemblyReference.cache
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.csproj.CoreCompileInputs.cache
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.exe
+F:\c#\final\Projeto_2tri_pkm\Projeto_2tri_pkm\obj\Debug\Projeto_2tri_pkm.pdb
